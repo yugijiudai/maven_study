@@ -1,0 +1,6 @@
+zttc\itat\maven\dao\UserDao.class
+zttc\itat\maven\util\HibernateUtil.class
+zttc\itat\maven\pojo\User.class
+zttc\itat\maven\testObject\UserObject.class
+zttc\itat\maven\service\IUserService.class
+zttc\itat\maven\ch02\Hello.class
